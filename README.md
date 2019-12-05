@@ -1,2 +1,2 @@
-# InterviewPrepHackerRank
-HackerRank Solutions
+# Python Coding Practice
+Algorithms and Data Structures
